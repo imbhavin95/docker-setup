@@ -6,3 +6,4 @@ A way how we can set up docker locally with git project.
 2. Add `docker-compose.yml` in your root folder
 3. Put the `docker` folder in your root folder
 4. You can change your PHP versions and other configurations in `docker/Dockerfile` file.
+5. Now run `docker-compose up` from cmd in the root
